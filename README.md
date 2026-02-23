@@ -9,7 +9,7 @@
               Minha coleção de Cifras
 ```
 
-# Cryptography Collection
+# Criptografia
 
 Coleção de implementações de cifras clássicas desenvolvidas em **Python puro**, com foco em aprendizado de algoritmos, manipulação de strings e lógica de programação.
 
