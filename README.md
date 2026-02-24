@@ -18,7 +18,7 @@ Coleção de implementações de cifras clássicas desenvolvidas em **Python pur
 ## Cifras Implementadas
 
 - ✅ Caesar Cipher
-- ⏳ Vigenère Cipher (em desenvolvimento)
+- ✅ Vigenère Cipher (em desenvolvimento)
 - ⏳ Atbash Cipher
 - ⏳ Rail Fence Cipher
 - ⏳ Outras cifras clássicas em breve
